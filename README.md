@@ -5,7 +5,7 @@ Bem-vindo ao repositório do projeto Cardápio Online em Java com banco de dados
 
 ## Tecnologias Utilizadas
 
-- Java
+- Java17
 - Spring Boot
 - MySQL
 - Hibernate
