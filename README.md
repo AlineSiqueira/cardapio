@@ -1,4 +1,4 @@
-# Cardápio Online em Java com MySQL - README
+# Cardápio Online em Java com MySQL - CRUD
 
 Bem-vindo ao repositório do projeto Cardápio Online em Java com banco de dados MySQL. Este projeto utiliza o Spring Boot com um controlador REST para lidar com as operações CRUD.
 
